@@ -4,7 +4,9 @@
 Interesting problem in computational combinatorics and number theory.
 Problem: Given a number M, calculate the sum of all the multiples of k and n 
 smaller than M. 
-Solution: A. J. Alvarez-Socorro
+
+Solution by A. J. Alvarez-Socorro as a part of the Library  
+Thinking_in_Algorithms
 """
 
 def multiples_of_n_smaller_than_m(n,m):
