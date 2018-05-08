@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Interesting problem in computational combinatorics and number theory.
+Thinking in Algorithms: A set of solved problems in algorithms with mathematical flavor.
 Problem: Given a number M, calculate the sum of all the multiples of k and n 
 smaller than M. 
 
-Solution by A. J. Alvarez-Socorro as a part of the Library  
-Thinking_in_Algorithms
+Solution by A. J. Alvarez-Socorro as a part of the Library TINALGO
 """
 
 def multiples_of_n_smaller_than_m(n,m):
