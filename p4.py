@@ -34,6 +34,3 @@ def main():
 # Test: 
 maxi, ii, jj=main()
 print('The answer is:', ii, 'x', jj, '=', maxi)
-
-            
-            
