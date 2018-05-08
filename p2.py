@@ -4,7 +4,6 @@
 Thinking in Algorithms: A set of solved problems in algorithms with mathematical flavor.
 Calculate the sum of all the odd Fibonacci numbers smaller than N.
 Calculate the sum of all the even Fibonacci numbers smaller than N.
-
 Solution by A. J. Alvarez-Socorro as a part of the Library - TINALGO
 """
 
