@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Interesting problem in computational combinatorics and number theory.
-Problem: 
-Solution by A. J. Alvarez-Socorro as a part of the Library  
-Thinking_in_Algorithms
+Thinking in Algorithms: A set of solved problems in algorithms with mathematical flavor.
+Problem: Find the largest palindrome number written as a product of two 4-digits numbers.
+Solution by A. J. Alvarez-Socorro as a part of the Library - TINALGO
 """
 
 # We take the function defined in the previous problem:
