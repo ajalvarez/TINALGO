@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Interesting problem in computational combinatorics and number theory.
+Thinking in Algorithms: A set of solved problems in algorithms with mathematical flavor.
 Problem: Write an algorithm to verify if a number is palindrome.
-Solution by A. J. Alvarez-Socorro as a part of the Library  
-Thinking_in_Algorithms
+Solution by A. J. Alvarez-Socorro as a part of the Library - TINALGO
 """
 
 
