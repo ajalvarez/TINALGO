@@ -20,7 +20,3 @@ def is_palindrome(m):
 # Test 
 print(is_palindrome(1234554321))
 print(is_palindrome(1234584723))
-
-        
-
-            
