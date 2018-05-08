@@ -1,6 +1,6 @@
-# Thinking in Algorithms TINALGO:
+# TINALGO: Thinking in Algorithms
 
-Thinking in Algorithms: A set of solved problems in algorithms with mathematical flavor.
+A set of solved problems in algorithms with mathematical flavor.
 
 The following is a list of interesting problems in algorithms inspired in several projects and books in algorithms. 
 
