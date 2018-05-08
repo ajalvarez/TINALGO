@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Interesting problem in computational combinatorics and number theory.
+Thinking in Algorithms: A set of solved problems in algorithms with mathematical flavor.
 Calculate the sum of all the odd Fibonacci numbers smaller than N.
 Calculate the sum of all the even Fibonacci numbers smaller than N.
 
-Solution by A. J. Alvarez-Socorro as a part of the Library  
-Thinking_in_Algorithms
+Solution by A. J. Alvarez-Socorro as a part of the Library - TINALGO
 """
 
 def fib(n):
